@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Seu Nome<Matheus Gonçalves | Mahgo>
+# <Matheus Gonçalves | Mahgo>
 ADS / Internship | Data Structures | Python | JavaScript | Full Stack Developer
 
 [LinkedIn](https://www.linkedin.com/in/mathgonsilva/)
