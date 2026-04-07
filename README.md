@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**MahgoDev/MahgoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Seu Nome<Matheus Gonçalves | Mahgo>
+ADS / Internship | Data Structures | Python | JavaScript | Full Stack Developer
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/mathgonsilva/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+Sou estudante de [ADS] com interesse em [Data Structures | Python | JavaScript | Full Stack Developer].
+Aprendendo e desenvolvendo projetos com [JavaScript, Python, HTML, CSS e banco de dados].
+
+## Tecnologias
+- Python
+- JavaScript
+- SQL
+- HTML / CSS
+- Git e GitHub
+
+## Contato
+- Email: matheusgon.ds@outlook.com
