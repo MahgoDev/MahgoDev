@@ -4,8 +4,8 @@ Internship | Data Structures | Python | JavaScript | Full Stack Developer
 [LinkedIn](https://www.linkedin.com/in/mathgonsilva/)
 
 ## Sobre mim
-Sou estudante de [ADS] com interesse em [Data Structures | Python | JavaScript | Full Stack Developer].
-Aprendendo e desenvolvendo projetos com [JavaScript, Python, HTML, CSS e banco de dados].
+Sou estudante de ADS na Unip com interesse em Data Structures | Python | JavaScript | Full Stack Developer
+Aprendendo e desenvolvendo projetos com JavaScript, Python, HTML, CSS e banco de dados.
 
 ## Tecnologias
 - Python
